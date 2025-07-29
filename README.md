@@ -1,4 +1,4 @@
-# RUNON Evaluation Framework
+# RUNON (Relative Uniqueness using Normalized Offset to Non-personalized model)
 
 This repository contains the implementation of RUNON (Relative Uniqueness of Next-token Occurrence Novelty), a metric for evaluating persona-likeness in language model outputs, along with human evaluation datasets and correlation analysis scripts.
 
